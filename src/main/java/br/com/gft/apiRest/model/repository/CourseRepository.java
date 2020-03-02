@@ -1,4 +1,4 @@
-package br.com.gft.apiRest.repository;
+package br.com.gft.apiRest.model.repository;
 
 import br.com.gft.apiRest.model.Course;
 import org.springframework.data.jpa.repository.JpaRepository;
